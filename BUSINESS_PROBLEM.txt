@@ -1,0 +1,16 @@
+INTRODUCTION
+
+	Pune, also known as Poona, is a bustling metropolis in the Indian State of Maharashtra and the eighth most populous city in India, with an estimated population of 7.4 million as of 2020.It has been ranked as "the most livable city in India" several times.
+
+	Pune is widely regarded as the second major "IT hub of India" and the top "automobile and manufacturing hub of India". It is also known as the "Oxford of the East" due to the presence of several well-known educational institutions. The city has emerged as a major educational hub in recent decades, with nearly half of the total international students in the country studying in Pune. Research institutes of information technology, education, management and training attract students and professionals from India and overseas.
+
+	With it’s diverse culture , comes diverse food items. There are many restaurants in Pune City, each belonging to different categories like Chinese, Italian, French etc. apart from wide variety of Indian cuisines. So as part of this project , we will list and visualise all major parts of Pune City .
+
+	
+QUESTIONS THAT CAN BE ASKED USING THE ABOVE MENTIONED DATASETS
+
+	- What is best location in Pune City for Italian Cuisine ?
+	- Which areas have large number of Italian Resturant ?
+	- Which all areas have less number of resturant ?
+	- Which is the best place to stay if I prefer Italian Cuisine ?
+	- What places are have best restaurant in Pune?

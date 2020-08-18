@@ -1,0 +1,23 @@
+DATA
+
+For this project we need the following data :
+
+1) Pune Resturants data that contains list Locality, Resturant name,Rating along with their latitude and longitude.
+
+	- Data source : Zomato kaggel dataset : "https://www.kaggle.com/shrutimehta/zomato-restaurants-data"
+	- Description : This data set contains the required information. And we will use this data set to explore
+					various	locality of new delhi city.
+
+2) Nearby places in each locality of new delhi city.
+	
+	- Data source : Fousquare API : "https://developer.foursquare.com/"
+	- Description : By using this api we will get all the venues in each neighborhood.
+
+
+APPROACH
+
+1) Collect the Pune city data from Zomato kaggel dataset
+2) Using FourSquare API we will find all venues for each neighborhood.
+3) Filter out all venues that are nearby by locality.
+4) Using aggregative rating for each resturant to find the best places.
+5) Visualize the Ranking of neighborhoods using folium library(python)
